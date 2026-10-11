@@ -26,7 +26,7 @@ Network policies:
 - Block `172.16.1.0/24` from accessing the DNS service on SRV1.
 - Block `172.16.2.0/24` from accessing HTTP and HTTPS services on SRV2.
 
-![Network Topology1](screenshot/ACl_extended.png)
+![Network Topology1](screenshot/ACL_extended.png)
 
 ## Troubleshooting & Verification
 
